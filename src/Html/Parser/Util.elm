@@ -14,7 +14,6 @@ import Html exposing (..)
 import Html.Attributes exposing (..)
 import Html.Parser exposing (Node(..))
 import SvgParser
-import VirtualDom
 
 
 {-| Converts nodes to virtual dom nodes.
